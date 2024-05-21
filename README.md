@@ -1,0 +1,2 @@
+# dotNETGoogleCloudSecretManager
+Google CloudのSecretManagerを.NETで触る
